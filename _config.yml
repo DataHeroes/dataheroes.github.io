@@ -1,0 +1,23 @@
+# Site settings
+title: Data Heroes Rhode Island
+# email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  The Data Heroes is networking group that first convened several years ago, welcoming people who work with or just plain love data. Members have contributed to a statewide catalog of publicly-available data sets (currently being updated); gathered to hear about innovations in the use and visualization of data; and enjoyed informal happy hours for socializing and networking. 
+  
+  We re-launched this fall with two meetings. Based on member feedback, we'll continue to offer events every few months, each one including a presentation on a relevant topic and a chance for Heroes to schmooze. 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://dataheroes.github.io" # the base hostname & protocol for your site
+# twitter_username: jekyllrb
+github_username:  dataheroes
+
+# Build settings
+markdown: kramdown
+
+#Kramdown
+kramdown:
+  input: GFM
+
+# Collections
+collections:
+  _data_sources:
+    output: true

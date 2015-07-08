@@ -1,61 +1,47 @@
-Data Report
+---
+layout: page
+title:  "RI Data Report - February 2014"
+categories: data_source
+---
 
-A brief compilation of data sets available on state agency and other websites
+# Data Report
 
-as of February 2014
+A brief compilation of data sets available on state agency and other websites as of February 2014
 
 Compiled by RI Statewide Planning Program
 
-*Introduction*
+# Introduction
 
 The RI Division of Planning is a 2011 recipient of a Sustainable Communities Regional Planning Grant from HUD. One of the issues the Division would like to tackle through this grant and beyond is getting a handle on all the data resources currently available in the state: where they live, how they are maintained, how they are accessed, used, and analyzed, and how they are shared with others. Ultimately, we would love to see a central clearinghouse for statewide data (or a clear data network “map”) through which we could share our resources among our offices, and with the municipalities and the general public. Over time as specific data sharing needs arise, we hope to start formalizing relationships with other state agencies and organizations, building on the cooperative work and agreements that have already been shared in the state. In the meantime, we are looking for ways to build relationships among data professionals throughout the state, to encourage more and better networking and collaboration.
 
-*Table of Contents*
+# Data Sources
 
-City of Providence Department of Public Safety Page 3
+- City of Providence
+-- Department of Public Safety
+- HousingWorks
+- Narragansett Bay
+- The Providence Plan
+- State of Rhode Island
+-- Board of Governor’s for Higher Educatio
+-- Coastal Resources Management Counci
+-- Department of Business Regulation
+-- Department of Corrections
+-- Department of Elementary and Secondary Education
+-- Department of Environmental Management
+-- Department of Health
+-- Department of Labor and Training
+-- Department of Revenue
+-- Department of Transportation
+-- Geographical Information Systems (RIGIS)
+-- Rhode Island Housing
+-- State Council on the Arts
+- University of Rhode Island – Environmental Data Center
+- U.S. Environmental Protection Agency Office
+- Research and Development
+- Watershed Counts
 
-HousingWorks Page 4
 
-Narragansett Bay Page 6
-
-The Providence Plan Page 7
-
-Rhode Island Board of Governor’s for Higher Education Page 8
-
-Rhode Island Coastal Resources Management Council Page 9
-
-Rhode Island Department of Business Regulation Page 10
-
-Rhode Island Department of Corrections Page 11
-
-Rhode Island Department of Elementary and Secondary
-
-Education Page 12
-
-Rhode Island Department of Environmental Management Page 13
-
-Rhode Island Department of Health Page 14
-
-Rhode Island Department of Labor and Training Page 15
-
-Rhode Island Department of Revenue Page 17
-
-Rhode Island Department of Transportation Page 18
-
-Rhode Island Geographical Information Systems (RIGIS) Page 19
-
-Rhode Island Housing Page 20
-
-Rhode Island State Council on the Arts Page 21
-
-University of Rhode Island – Environmental Data Center Page 22
-
-U.S. Environmental Protection Agency Office of
-
-Research and Development Page 23
-
-Watershed Counts Page 23*
-City of Department of Public Safety*
+# City of Providence Department of Public Safety
 
 The City of Providence Department of Public Safety informs the residents of about key public safety initiatives. The website serves as a threshold to access information from the Department of Public Safety Commissioner’s Office, the Communications Department, the Providence Emergency Management Agency and the Office of Homeland Security, the Providence Fire Department, and the Providence Police Department.
 
